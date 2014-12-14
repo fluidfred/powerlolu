@@ -26,7 +26,7 @@ RAMPS X-port.
 A short video of the new driver can be seen on YouTube at
 https://www.youtube.com/watch?v=G9FWvhZI7rs .
 
-After two hours of motor usage the Powerlolu board only got luke warm.
+After two hours of motor usage the Powerlolu board only got luke warm - however see Installation Note
 
 The schematics for the Powerlolu driver are freely available at https://github.com/fluidfred/powerlolu.
 
