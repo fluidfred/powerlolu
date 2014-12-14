@@ -41,7 +41,7 @@ Technical specifications:
 * Dimensions PCB: 75.5mm x 65mm
 
 Important installation note:
-=============================
+----------------------------
 Observe the heat emission when using stepper motors larger than NEMA 23. 
 If necessary, implement a cooling system, i.e. heat sinks mounted at the power-Mosfets and a fan. 
 Each individual Powerlolu should be protected by connecting an appropriate fuse between VBB (X2) 
