@@ -46,3 +46,5 @@ Observe the heat emission when using stepper motors larger than NEMA 23.
 If necessary, implement a cooling system, i.e. heat sinks mounted at the power-Mosfets and a fan. 
 Each individual Powerlolu should be protected by connecting an appropriate fuse between VBB (X2) 
 and the power source of the stepper motor.
+
+More installation notes can be found under http://wiki.germanreprap.com/en/handbuch/powerlolu concerning wiring with RAMPS and current limiter adjustment. 
